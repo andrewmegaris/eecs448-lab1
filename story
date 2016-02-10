@@ -1,2 +1,2 @@
 A long time ago, in a galaxy far, far away
-Added this text to story.
+Add this text to story.
