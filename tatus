@@ -1,0 +1,23 @@
+[33mcommit a29e7a633a0affb20be23b4142063262a675635c[m
+Author: Andrew Megaris <andrewmegaris@gmail.com>
+Date:   Wed Feb 10 23:48:39 2016 +0000
+
+    added story.txt
+
+[33mcommit c7ab9c770737250b10ab5a84e08f19f19bfc630f[m
+Author: John Gibbons <jwgibbo@gmail.com>
+Date:   Wed Jan 27 11:59:13 2016 -0600
+
+    Change terminal folder color from blue to yellow
+
+[33mcommit 4881c64039dcb8c3c33f9910ed955d78297f47b7[m
+Author: John Gibbons <jwgibbo@gmail.com>
+Date:   Wed Jan 27 11:58:19 2016 -0600
+
+    Add yellow option
+
+[33mcommit 6e830af222641d5d1eb3005bf8756bd9634a713f[m
+Author: John Gibbons <jwgibbo@gmail.com>
+Date:   Mon Jan 18 15:42:17 2016 -0600
+
+    Add git command line files
